@@ -1,8 +1,8 @@
 # Music Visualiser Project
 
-Name:
+Name: Joseph Haskins
 
-Student Number: 
+Student Number: C18336951
 
 ## Instructions
 - Fork this repository and use it a starter project for your assignment
@@ -12,12 +12,19 @@ Student Number:
 - Check out the WaveForm and AudioBandsVisual for examples of how to call the Processing functions from other classes that are not subclasses of PApplet
 
 # Description of the assignment
+This program loads a file of the mp3 format from the java/data folder and then runs and displays shapes and images that respond to various parts of the audio.
 
 # Instructions
+The program has 4 modes each displaying a diffrent form of audio visualiser. These can be toggled using the keys 1,2,3 and 4. The current mode of the program is displayed in the top left corner. The program can also be restarted by pressing the "Space" key without changing the mode back to the default.
 
 # How it works
+You can run the project by opening the file in VS code and pressing F5 or you can open a console in the java file and type ./run.sh. If for some reason the .class files didnt download
+correctly you can type ./compile.sh in that same folder then re-try ./run.sh.
 
 # What I am most proud of in the assignment
+The part I am most proud
+
+# Youtube Video
 
 # Markdown Tutorial
 
