@@ -1,6 +1,5 @@
 package C18336951;
 
-import ddf.minim.analysis.FFT;
 import ie.tudublin.*;
 
 public class AssignmentVisuals extends Visual {

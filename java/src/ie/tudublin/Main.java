@@ -1,6 +1,6 @@
 package ie.tudublin;
 
-import C18336951.AssignmentVisuals;
+import C18336951.*;
 
 
 public class Main
